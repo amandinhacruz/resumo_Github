@@ -46,3 +46,15 @@ ___
 ### Comandos para subir o repositório local para o remoto: 
 
 ![print comandos](https://www.purin-it.com/wp-content/uploads/2021/09/add_main_sub_3.png)
+
+___
+
+### Comandos Git importantes
+
+- git init : inicia um repositório git oculto na pasta criada
+- git status: ver arquivos criados ou modificados
+- git add .: para adicionar todos os arquivos que estão na sua pasta de uma vez
+- git commit -m "mensagem": é usado para identificar  a alteração feita
+- git push origin master: enviar as alterações feitas par a branch 
+
+
