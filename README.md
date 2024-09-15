@@ -30,3 +30,19 @@ O GitHub é um serviço baseado em nuvem que hospeda os repositórios remontamen
 2. Escolha um nome de repositório. Confira se ele está definido para Public (público) para que ele tenha código aberto, e então marque a caixa Add a README file (adicionar um arquivo LEIA-ME). Finalmente, clique em Criar repositório.
 
 ![adicionar informações do repositório](https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/01/criar-repositorio-github-readme.webp)
+
+___
+
+## README.md
+
+O README.md é um arquivo com extensão .md (Markdown). Que contém informações necessárias para entender o objetivo do projeto. Podemos considerar o README como um cartão de visita do  projeto. Com um arquivo bem descrito — às vezes com imagens, vídeos ou gifs — o projeto tem mais relevância e deixa as pessoas mais aguçadas e curiosas para ler o código.
+
+## Markdown 
+
+O Markdown é uma ferramenta de conversão de texto em HTML. Você escreve usando texto simples de fácil leitura e fácil escrita e depois é transformado em um HTML válido.
+
+___
+
+### Comandos para subir o repositório local para o remoto: 
+
+![print comandos](https://www.purin-it.com/wp-content/uploads/2021/09/add_main_sub_3.png)
