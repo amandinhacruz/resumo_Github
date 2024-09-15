@@ -26,3 +26,7 @@ O GitHub é um serviço baseado em nuvem que hospeda os repositórios remontamen
 1. Clique em Create a repository (criar um repositório) para começar um novo projeto. 
 
 ![print criar repositório](https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/01/create-repository-step-1-github.webp)
+
+2. Escolha um nome de repositório. Confira se ele está definido para Public (público) para que ele tenha código aberto, e então marque a caixa Add a README file (adicionar um arquivo LEIA-ME). Finalmente, clique em Criar repositório.
+
+![adicionar informações do repositório](https://www.hostinger.com.br/tutoriais/wp-content/uploads/sites/12/2019/01/criar-repositorio-github-readme.webp)
